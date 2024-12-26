@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores various techniques for portfolio management and optimization. It aims to construct efficient portfolios by implementing, analyzing, and comparing different quantitative models used in financial portfolio management. These models include the Black-Litterman Model, Mean-Variance Optimization, and others. The focus is on balancing risk and return, incorporating investor views, and testing the performance of these strategies in real-world scenarios.
+This project explores various techniques for portfolio management and optimization. It aims to construct efficient portfolios by implementing, analyzing, and comparing different quantitative models used in financial portfolio management. These models include Monte Carlo method, Mean Variance Optimization method, Capital Asset Pricing method, and Black Litterman method. The focus is on balancing risk and return, incorporating investor views, and testing the performance of these strategies in real-world scenarios.
 
 ## Stakeholders
 - Financial Analysts: Use these techniques to optimize client portfolios.
